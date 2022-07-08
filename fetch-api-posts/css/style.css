@@ -1,0 +1,92 @@
+* {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 15px;
+}
+
+.hide {
+  display: none;
+}
+
+a, input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  opacity: 0.7;
+  font-size: 1em;
+  border: none;
+  cursor: pointer;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+a:hover, input[type="submit"]:hover {
+  opacity: 1;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+div > div {
+  margin-bottom: 40px;
+}
+
+#post-title {
+  margin-bottom: 10px;
+}
+
+#post-body {
+  margin-bottom: 15px;
+}
+
+#return {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 300px;
+}
+
+form div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: .5em;
+}
+
+form label {
+  font-weight: bold;
+  margin-bottom: .3em;
+}
+
+form input,
+form textarea {
+  padding: 5px;
+}
+
+input[value="Enviar"] {
+  display: inline-block;
+  margin-bottom: 40px;
+}
+
+#comment-title {
+  margin-bottom: 20px;
+}
+
+hr {
+  margin-bottom: 20px;
+}
+
+#comments-user-email {
+  margin-bottom: 10px;
+}

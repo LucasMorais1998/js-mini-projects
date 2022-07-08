@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/script.js" defer></script>
+    <title>Post</title>
+  </head>
+  <body>
+    <p id="loading">Carregando...</p>
+    <div id="post" class="hide">
+      <a href="index.html" id="return">Voltar</a>
+
+      <div id="post-container"></div>
+
+      <h2 id="comment-title">Adicione um comentário:</h2>
+
+      <form id="comment-form">
+        <div>
+          <label for="email">Seu e-mail:</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Digite o seu e-mail"
+            required
+          />
+        </div>
+
+        <div>
+          <label for="body">Seu comentário</label>
+          <textarea
+            name="body"
+            id="body"
+            placeholder="Digite o seu comentário"
+            required
+            cols="10"
+            rows="8"
+          ></textarea>
+        </div>
+
+        <input type="submit" value="Enviar" />
+      </form>
+
+      <hr>
+      <h2 id="comment-title">Comentários:</h2>
+      <div id="comments-container"></div>
+    </div>
+  </body>
+</html>
