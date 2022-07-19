@@ -7,3 +7,4 @@ Repository for small projects built mainly with javascript:
 - :last_quarter_moon: [**dark-mode**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/dark-mode)
 - :drum: [**drums**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/drums)
 - :clock12: [**analog-clock**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/analog-clock)
+- :cloud_with_rain: [**weather**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/weather)
