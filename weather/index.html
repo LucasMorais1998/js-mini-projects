@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/script.js" defer></script>
+    <title>Weather</title>
+  </head>
+  <body>
+    <h1>Weather</h1>
+
+    <form class="search">
+      <input type="search" name="searchInput" id="searchInput" />
+      <button>Buscar</button>
+    </form>
+
+    <div class="result">
+      <div class="title">--</div>
+
+      <div class="info">
+        <div class="temp">
+          <div class="temp-title">Temperatura</div>
+          <div class="temp-info">-- <sup>ºC</sup></div>
+          <img
+            src="http://openweathermap.org/img/wn/10d@2x.png"
+            alt="weather image"
+          />
+        </div>
+
+        <div class="wind">
+          <div class="wind-title">Vento</div>
+          <div class="wind-info">-- <span>km/h</span></div>
+          <div class="wind-area">
+            <div class="wind-pointer"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="warning"></div>
+  </body>
+</html>
