@@ -8,3 +8,4 @@ Repository for small projects built mainly with javascript:
 - :drum: [**drums**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/drums)
 - :clock12: [**analog-clock**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/analog-clock)
 - :cloud_with_rain: [**weather**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/weather)
+- :x: :o: [**tic-tac-toe**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/tic-tac-toe)
