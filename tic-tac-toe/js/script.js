@@ -28,7 +28,6 @@ function itemClick(e) {
     board[item] = playerTurn;
 
     renderBoard();
-
     togglePlayer();
   }
 }
