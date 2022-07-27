@@ -11,3 +11,4 @@ Repository for small projects built mainly with javascript:
 - <sup><sub><sup><sub>:x: :o:</sub></sup></sub></sup> &nbsp;[**tic-tac-toe**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/tic-tac-toe)
 - :pencil2: [**canvas-drawing**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/canvas-drawing)
 - :interrobang: [**quiz**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/quiz)
+- :pinching_hand: [**dragdrop**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/dragdrop)
