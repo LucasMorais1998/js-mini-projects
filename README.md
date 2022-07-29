@@ -12,3 +12,4 @@ Repository for small projects built mainly with javascript:
 - :pencil2: [**canvas-drawing**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/canvas-drawing)
 - :interrobang: [**quiz**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/quiz)
 - :pinching_hand: [**dragdrop**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/dragdrop)
+- :framed_picture: [**modal-js**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/modal-js)
