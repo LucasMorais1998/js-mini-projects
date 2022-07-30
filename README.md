@@ -14,3 +14,4 @@ Repository for small projects built mainly with javascript:
 - :pinching_hand: [**dragdrop**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/dragdrop)
 - :framed_picture: [**modal-js**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/modal-js)
 - :house: [**api-viacep**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/api-viacep)
+- :bamboo: [**lp-indecor**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/lp-indecor)
