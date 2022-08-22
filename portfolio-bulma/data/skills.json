@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript",
+      "additional": "React.js, Node.js, TypeScript"
+    },
+    {
+      "name": "C#",
+      "additional": ".NET, ASP.NET Core"
+    },
+    {
+      "name": "Ruby",
+      "additional": "Rails"
+    },
+    {
+      "name": "PHP",
+      "additional": "Laravel"
+    },
+    {
+      "name": "Go"
+    },
+    {
+      "name": "Elixir"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL",
+      "additional": "MySQL, PostgreSQL"
+    },
+    {
+      "name": "NoSQL",
+      "additional": "MongoDB"
+    }
+  ]
+}
