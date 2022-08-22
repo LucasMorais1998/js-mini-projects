@@ -1,13 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
 
 :root {
-  --blue-color: #2980b9;
-  --black-color: #000;
-  --white-color: #fff;
-  --grey-500-color: #777;
-  --grey-100-color: #eee;
+  --blue: #2980b9;
+  --black: #000;
+  --white: #fff;
+  --gray: #eee;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-  --bg-color: linear-gradient(45deg, rgb(192, 191, 191), var(--blue-color));
+  --background: linear-gradient(45deg, rgb(192, 191, 191), var(--blue));
 }
 
 * {
@@ -22,17 +21,17 @@
 }
 
 #body {
-  background: var(--bg-color);
+  background: var(--background);
 }
 
 .title {
   font-size: 25px;
-  color: var(--blue-color);
+  color: var(--blue);
   margin-bottom: 15px;
 }
 
 #btn-change-theme {
-  color: var(--black-color);
+  color: var(--black);
 }
 
 .btn {
@@ -40,14 +39,14 @@
   display: inline-block;
   padding: 7px 20px;
   border-radius: 5px;
-  background: var(--blue-color);
-  color: var(--white-color);
+  background: var(--blue);
+  color: var(--white);
   font-size: 17px;
   box-shadow: var(--box-shadow);
 }
 
 .btn:hover {
-  background: var(--black-color);
+  background: var(--black);
 }
 
 .container {
@@ -57,13 +56,13 @@
 
 .container .profile-card {
   flex: 1 1 400px;
-  background: var(--white-color);
+  background: var(--white);
   padding: 20px 30px;
   text-align: center;
   position: sticky;
   top: 20px;
   left: 0;
-  border-right: 2px solid var(--black-color);
+  border-right: 2px solid var(--black);
   border-radius: 8px;
   align-self: flex-start;
 }
@@ -72,18 +71,18 @@
   height: 150px;
   width: 150px;
   border-radius: 50%;
-  border: 2px solid var(--black-color);
+  border: 2px solid var(--black);
   object-fit: cover;
   margin-bottom: 10px;
 }
 
 .container .profile-card h3 {
-  color: var(--black-color);
+  color: var(--black);
   font-size: 20px;
 }
 
 .container .profile-card p {
-  color: var(--blue-color);
+  color: var(--blue);
   padding: 5px 0;
   margin-bottom: 10px;
   font-size: 15px;
@@ -99,13 +98,13 @@
   line-height: 50px;
   font-size: 20px;
   border-radius: 50%;
-  color: var(--black-color);
-  background: var(--grey-100-color);
+  color: var(--black);
+  background: var(--gray);
 }
 
 .container .profile-card .share a:hover {
-  background: var(--blue-color);
-  color: var(--white-color);
+  background: var(--blue);
+  color: var(--white);
   box-shadow: var(--box-shadow);
 }
 
@@ -117,7 +116,7 @@
 
 .container .information {
   flex: 1 1 1000px;
-  background: var(--white-color);
+  background: var(--white);
   padding: 20px 30px;
   border-radius: 8px;
 }
@@ -126,7 +125,7 @@
   font-size: 17px;
   line-height: 2;
   padding-bottom: 10px;
-  color: var(--grey-500-color);
+  color: var(--black);
 }
 
 .container .information .about .box-container {
@@ -142,11 +141,11 @@
 .container .information .about .box-container .box h3 {
   font-size: 15px;
   padding: 10px 0;
-  color: var(--grey-500-color);
+  color: var(--black);
 }
 
 .container .information .about .box-container .box h3 span {
-  color: var(--blue-color);
+  color: var(--blue);
 }
 
 .container .information .services {
@@ -164,7 +163,7 @@
   text-align: center;
   border-radius: 5px;
   padding: 20px;
-  background: var(--grey-100-color);
+  background: var(--gray);
 }
 
 .container .information .services .box-container .box i {
@@ -201,7 +200,7 @@
 
 .container .information .services .box-container .box h3 {
   font-size: 15px;
-  color: var(--grey-500-color);
+  color: var(--black);
 }
 
 .container .information .projects {
@@ -218,22 +217,22 @@
   padding: 20px;
   border-radius: 5px;
   flex: 1 1 350px;
-  background: var(--grey-100-color);
+  background: var(--gray);
 }
 
 .container .information .projects .box-container .box span {
-  color: var(--blue-color);
+  color: var(--blue);
   font-size: 15px;
 }
 
 .container .information .projects .box-container .box h3 {
-  color: var(--black-color);
   font-size: 17px;
   padding: 5px 0;
+  color: var(--black);
 }
 
 .container .information .projects .box-container .box p {
-  color: var(--grey-500-color);
+  color: var(--black);
   line-height: 2;
   font-size: 13px;
 }
@@ -257,20 +256,20 @@
   line-height: 40px;
   font-size: 15px;
   border-radius: 50%;
-  background: var(--blue-color);
-  color: var(--white-color);
+  background: var(--blue);
+  color: var(--white);
   text-align: center;
 }
 
 .container .information .contact .box-container .box h3 {
   font-size: 17px;
-  color: var(--black-color);
+  color: var(--black);
   padding-bottom: 5px;
 }
 
 .container .information .contact .box-container .box p {
   font-size: 14px;
-  color: var(--grey-500-color);
+  color: var(--black);
   line-height: 2;
 }
 
