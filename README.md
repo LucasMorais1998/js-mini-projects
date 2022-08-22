@@ -16,3 +16,4 @@ Repository for small projects built mainly with javascript:
 - :house: [**api-viacep**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/api-viacep)
 - :bamboo: [**lp-indecor**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/lp-indecor)
 - :green_book: [**portfolio-bulma**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/portfolio-bulma)
+- :blue_book: [**portfolio-html-css-js**](https://github.com/LucasMorais1998/js-mini-projects/tree/main/portfolio-html-css-js)
